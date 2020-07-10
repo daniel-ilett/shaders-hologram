@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Hologram
+  m_Name: Hologram Purple
   m_Shader: {fileID: -6465566751694194690, guid: b4445a11a5d463d418e4b7b7f44857b9,
     type: 3}
   m_ShaderKeywords: 
@@ -87,7 +87,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Fresnel_Color: {r: 2, g: 2, b: 2, a: 1}
     - _HologramTiling: {r: 64, g: 64, b: 0, a: 0}
-    - _MainColor: {r: 0, g: 1.6941177, b: 5.992157, a: 1}
+    - _MainColor: {r: 1.7353709, g: 0, b: 5.992157, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
 --- !u!114 &2968663823414105469
 MonoBehaviour:
