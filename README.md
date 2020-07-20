@@ -6,7 +6,7 @@ A holographic Shader Graph for Unity Universal Render Pipeline.
 
 ## Overview
 
-This project contains a shader graph for creating holographic objects. It uses a fresnel around the outer edge of the object, with a scanline texture projected over the object on the global y-axis, moving slowly downwards. An accompanying tutorial will be available soon.
+This project contains a shader graph for creating holographic objects. It uses a fresnel around the outer edge of the object, with a scanline texture projected over the object on the global y-axis, moving slowly downwards. An accompanying tutorial is available on [danielilett.com](https://danielilett.com/2020-07-12-tut5-9-urp-hologram/).
 
 ## Software
 
